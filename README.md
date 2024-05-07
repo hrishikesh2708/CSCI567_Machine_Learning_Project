@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores complex regularization techniques applied to a Convolutional Neural Network (CNN) for image classification. The techniques include L2 Regularization, Dropout, Data Augmentation, and Ensemble Regularization (Dropout + L2). The project uses the Tiny-ImageNet dataset and focuses on improving the model’s performance.
+This project explores complex regularization techniques applied to a Convolutional Neural Network (CNN) for image classification. The techniques include L2 Regularization, Dropout, Data Augmentation, and Ensemble Regularization (Dropout + L2). The project uses the Tiny-ImageNet dataset and focuses on preventing overfitting.
 
 ## Authors
 
