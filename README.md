@@ -17,7 +17,7 @@ This project examines overfitting and poor generalization in machine learning mo
 
 ## Repository Contents
 
-- **Code**: Python scripts implementing the CNN and regularization techniques.
+- **Code**: Python scripts implementing the CNN and RNN model and regularization techniques.
 - **Report**: Detailed analysis and results of the regularization techniques.
 
 ## Conclusion
